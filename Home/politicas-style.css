@@ -10,6 +10,8 @@ body {
     background-image: url(https://images.unsplash.com/photo-1589465885857-44edb59bbff2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);
     background-repeat: no-repeat;
     padding: 10%;
+    background-size: cover;
+    background-position: center;
 }
 
 ul li {
@@ -20,24 +22,16 @@ ul li {
 footer {
     margin-top: 5%;
     margin-left: 90%;
-    border-radius: 5%;
     border-left: 2px solid rgba(73, 72, 60, 0.842);
-    border-bottom: 3px solid rgba(92, 89, 74, 0.774);
-    background-color: rgba(213, 214, 200, 0.486);
-    padding: 2%;
+    padding: 1%;
 }
 
 a {
     color: black;
     text-decoration: none;
-}
-
-#contact a {
     margin-top: 15%;
     color: rgba(0, 140, 233, 0.911);
 }
-
-
 
 
 
