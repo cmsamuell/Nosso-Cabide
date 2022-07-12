@@ -38,11 +38,6 @@ ul li {
     margin: 7%;
 }
 
-footer {
-    display: inline;
-    margin-right: -80%;
-}
-
 a {
     border-radius: 15%;
     box-shadow: 2px 1px 5px rgb(20, 19, 19);
